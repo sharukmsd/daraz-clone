@@ -1,0 +1,22 @@
+
+
+INSERT INTO `products`(`p_name`, `p_description`, `p_price`, `p_image`, `p_quantity`, `p_category`) VALUES (' Vintage Unisex Eyeglass Frame Glasses Retro Spectacles Clear Lens Eyewear ', '1x Vintage Unisex Eyeglass Frame Glasses Retro Spectacles Clear Lens Eyewear', 6000,'images/Glasses.jpg', 400, 'Men Fashion');
+INSERT INTO `products`(`p_name`, `p_description`, `p_price`, `p_image`, `p_quantity`, `p_category`) VALUES ('Waterproof Bike Frame Bag, Multi-Function Frame Top Tube Pannier Bag, Bicycle Rear Seat Trunk Bag, Bicycle Saddle Bag for Mountain Cycling', ' EVA hard shell three-dimensional shape, pressure shock absorption Large space to meet daily needs, carbon grain PU, water repellent, no touch legs when riding', 10000,'images/bikebag.jpg', 300, 'Men Fashion');
+INSERT INTO `products`(`p_name`, `p_description`, `p_price`, `p_image`, `p_quantity`, `p_category`) VALUES ('Winter Sports Gloves,Touchscreen Warm Windproof Thermal Imported Glove', ' 
+
+High Quality Material
+
+Non-slip wear
+
+Waterproof and windproof, warm and comfortable', 500,'images/Gloves.jpg', 30, 'Sports & Outdoor');
+
+INSERT INTO `products`(`p_name`, `p_description`, `p_price`, `p_image`, `p_quantity`, `p_category`) VALUES ('GEM GM5162 Business Casual Travel Multi-functional Laptop Backpack 28L Black', 'The GEM GM5162 Business Casual Travel Multi-functional Laptop Backpack 28L is great for business or travel, definitely a great option! It is built with a large capacity main compartment for your laptop and smaller zipped pockets for daily essentials.', 4000,'images/bagpack.jpg', 40, 'Men Fashion');
+INSERT INTO `products`(`p_name`, `p_description`, `p_price`, `p_image`, `p_quantity`, `p_category`) VALUES ('i7S TWS Bluetooth Connectivity Earbuds - White', 'Powerful noise de-noising circuit (active noise reduction)
+
+Bluetooth use band: 2.4GHz
+
+Output power: 30mW
+
+Bluetooth distance: 6/8 meters
+
+Intelligent noise reduction.', 900,'images/ipods.jpg', 4000, 'Sports & Outdoor');
